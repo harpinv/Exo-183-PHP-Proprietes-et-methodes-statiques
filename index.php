@@ -11,7 +11,7 @@
  *
  * 2. Créez une instance VOD ayant le nom $netflix et initialisez la comme nous l'avons vu (dans index.php).
  *
- * 3. Créez une instance DOS ayant le nom $prime et initialisez la comme nous l'avons vu (dans index.php).
+ * 3. Créez une instance VOD ayant le nom $prime et initialisez la comme nous l'avons vu (dans index.php).
  *
  * 4. Invoquez la méthode addAbo() plusieurs fois pour les les objets créés, le nombre de fois n'a pas d'importance.
  *
